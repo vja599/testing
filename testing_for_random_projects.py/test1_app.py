@@ -16,7 +16,7 @@ def solve_math_problem(problem):
         return f"Error: {e}"
 
 # Streamlit UI
-st.title("Simple Math Solver")
+st.title("viraaj made this ik it seems weird but its only a beta version")
 
 user_input = st.text_input("Enter a simple math problem (e.g., 2 + 2):")
 
